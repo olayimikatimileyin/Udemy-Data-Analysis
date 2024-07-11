@@ -62,7 +62,8 @@ I have attached a PDF file that contains every detail about this project, includ
 
 How You Can Help Me:
 
-I've successfully completed other projects, all showcased in my portfolio. You're all invited to visit my portfolio at https://olayimikatimileyin.github.io/olayimikatimileyinn-github.io/ and explore these amazing projects!
+I've successfully completed other projects, all showcased in my portfolio. You're all invited to visit my portfolio at https://olayimikatimileyin.github.io/Mickey-github.io/
+ and explore these amazing projects!
 
 Additionally, I'm currently seeking internship or entry-level opportunities. If you have any opportunities available, please connect with me on LinkedIn.
 
